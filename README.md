@@ -29,4 +29,10 @@ Computer Science student at UEM, passionate about game modding and software deve
 A collection of additions packed into a mod for *Crusader Kings 3*.  
 Built with AMPL, focused on expanding gameplay with new features and content.
 
+### Multiverse Duel
+A mod for *Cardeneer*, available on mod.io.
+
+[![Available on mod.io](https://img.shields.io/badge/mod.io-Multiverse%20Duel-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAb0lEQVQokWNgGAWkgv9kYGBg+E8iZiADkKv5PyUGsv7/Z2BguEeKRoZRTWMYGBj+k2IjA8P/UU1jGBj+j2oag5WBgeE/KTYyMDCMahoDssGoJkKYgYHhPzE2MjAwjGoaA9IGo5pGNY1qGtkAAHHuHSStmc0YAAAAAElFTkSuQmCC)](https://mod.io/g/cardeneer/m/guerra-de-cartas-3#description)
+
 ---
+
