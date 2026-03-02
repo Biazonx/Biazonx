@@ -6,7 +6,7 @@ Computer Science student at UEM, passionate about game modding and software deve
 
 ## About Me
 
-- Studying Computer Science at **Universidade Estadual de Maringá (UEM)**
+- Studying Computer Science at **State University of Maringá (UEM)**
 - Member of **Main Empresa Júnior - UEM**
 - Game modding enthusiast
 
