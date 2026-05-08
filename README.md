@@ -29,8 +29,6 @@ Computer Science student focused on **game systems, modding, and full-stack deve
 
 ---
 
----
-
 ## Projects
 
 ### [Biazon-Pack-CK3](https://github.com/Biazonx/Biazon-Pack-CK3)
